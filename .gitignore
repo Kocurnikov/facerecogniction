@@ -1,0 +1,17 @@
+#Środowiska wirtualne
+venv_tf/
+#Dane
+datasets/replaced/
+datasets/stable_diffusion/
+#Python cache
+__pycache__/
+*.pyc
+#Pliki modelu
+tomek_cnn_1.py
+tomek_cnn_2_augmented.py
+tomek_cnn_3_early_augmented.py
+tomek_cnn_4_replaced.py
+
+# Systemowe pliki tymczasowe
+.DS_Store
+Thumbs.db
