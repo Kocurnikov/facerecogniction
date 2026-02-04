@@ -14,5 +14,3 @@ Files:
 - Etap2_Report.docx
 - models/mobilenet_finetuned_final.keras
 - cnn_label_smoothing.keras
-
-Author: Magdalena Melaniuk
