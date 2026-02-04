@@ -4,3 +4,5 @@ Dataset to use:
 -datasets/balanced/train
 -datasets/original/test
 -datasets/original/val
+
+Stage 2 implementation available in folder: stage2
